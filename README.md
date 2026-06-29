@@ -273,13 +273,6 @@ National-Health-Dashboard/
 
 **Harshita Dhiman**
 
-**Lead Associate – Data Engineering**
-
-### Connect with Me
-
-- LinkedIn: *Add your LinkedIn profile URL here*
-- GitHub: *Add your GitHub profile URL here*
-
 ---
 
 ⭐ If you found this project interesting, consider giving this repository a star!
