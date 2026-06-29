@@ -248,13 +248,13 @@ National-Health-Dashboard/
 
 ## Demographics Overview
 
-![Dashboard Page 1](Images/Demographics.png)
+![Dashboard Page 1](images/Demographics.png)
 
 ---
 
 ## Key Trends & Behaviour Analysis
 
-![Dashboard Page 2](Images/Key Trends.png)
+![Dashboard Page 2](images/Key_Trends.png)
 
 ---
 
